@@ -1,0 +1,180 @@
+{
+	"tracks": [
+	{
+		"name": "Bahrain International Circuit",
+		"nickname": "Bahrain",
+    	"country": "Bahrain",
+    	"city": "Sakhir",
+    	"length": "5.412",
+    	"first_race_year": 2004
+	},
+	{
+		"name": "Saudi Arabian Grand Prix",
+		"nickname": "Jeddah",
+		"country": "Saudi Arabia",
+		"city": "Jeddah",
+		"length": "6.174",
+		"first_race_year": 2021
+	},
+	{
+		"name": "Australian Grand Prix",
+		"nickname": "Aussie GP",
+		"country": "Australia",
+		"city": "Melbourne",
+		"length": "5.278",
+		"first_race_year": 1996
+	},
+	{
+		"name": "Emilia Romagna Grand Prix",
+		"nickname": "Imola",
+		"country": "Italy",
+		"city": "Imola",
+		"length": "4.909",
+		"first_race_year": 1981
+	},
+	{
+		"name": "Miami Grand Prix",
+		"nickname": "Miami",
+		"country": "United States of America",
+		"city": "Miami",
+		"length": "5.412",
+		"first_race_year": 2022
+	},
+	{
+		"name": "Spanish Grand Prix",
+		"nickname": "Catalunya",
+		"country": "Spain",
+		"city": "Barcelona",
+		"length": "4.657",
+		"first_race_year": 1913
+	},
+	{
+		"name": "Monaco Grand Prix",
+		"nickname": "Monaco",
+		"country": "Monaco",
+		"city": "Monte Carlo",
+		"length": "3.337",
+		"first_race_year": 1929
+	},
+	{
+		"name": "Azerbaijan Grand Prix",
+		"nickname": "Baku",
+		"country": "Azerbaijan",
+		"city": "Baku",
+		"length": "6.003",
+		"first_race_year": 2017
+	},
+	{
+		"name": "Canadian Grand Prix",
+		"nickname": "Canada",
+		"country": "Canada",
+		"city": "Montreal",
+		"length": "4.361",
+		"first_race_year": 1961
+	},
+	{
+		"name": "British Grand Prix",
+		"nickname": "Silverstone",
+		"country": "United Kingdom",
+		"city": "Northamptonshire",
+		"length": "5.891",
+		"first_race_year": 1926
+	},
+	{
+		"name": "Austrian Grand Prix",
+		"nickname": "Red Bull Ring",
+		"country": "Austria",
+		"city": "Spielberg",
+		"length": "4.318",
+		"first_race_year": 1963
+	},
+	{
+		"name": "French Grand Prix",
+		"nickname": "Paul Ricard",
+		"country": "France",
+		"city": "Le Castellet",
+		"length": "5.842",
+		"first_race_year": 1906
+	},
+	{
+		"name": "Hungarian Grand Prix",
+		"nickname": "Hungaroring",
+		"country": "Hungary",
+		"city": "Mogyorod",
+		"length": "4.381",
+		"first_race_year": 1936
+	},
+	{
+		"name": "Belgian Grand Prix",
+		"nickname": "Spa-Francorchamps",
+		"country": "Belgium",
+		"city": "Stavelot",
+		"length": "7.004",
+		"first_race_year": 1925
+	},
+	{
+		"name": "Dutch Grand Prix",
+		"nickname": "Zandvoort",
+		"country": "Netherlands",
+		"city": "North Holland",
+		"length": "4.259",
+		"first_race_year": 1950
+	},
+	{
+		"name": "Italian GP",
+		"nickname": "Monza",
+		"country": "Italy",
+		"city": "Milan",
+		"length": "5.793",
+		"first_race_year": 1921
+	},
+	{
+		"name": "Singapore Grand Prix",
+		"nickname": "Marina Bay",
+		"country": "Singapore",
+		"city": "Marina Bay",
+		"length": "4.928",
+		"first_race_year": 1966
+	},
+	{
+		"name": "Japanese Grand Prix",
+		"nickname": "Suzuka",
+		"country": "Japan",
+		"city": "Nagoya",
+		"length": "5.807",
+		"first_race_year": 1963
+	},
+	{
+		"name": "United States Grand Prix",
+		"nickname": "Circuit of the Americas",
+		"country": "United States of America",
+		"city": "Austin",
+		"length": "5.513",
+		"first_race_year": 1908
+	},
+	{
+		"name": "Mexican Grand Prix",
+		"nickname": "Mexico",
+		"country": "Mexico",
+		"city": "Mexico City",
+		"length": "4.304",
+		"first_race_year": 1962
+	},
+	{
+		"name": "Brazilian Grand Prix",
+		"nickname": "Interlagos",
+		"country": "Brasil",
+		"city": "Sau Paulo",
+		"length": "4.309",
+		"first_race_year": 1972
+	},
+	{
+		"name": "Abu Dhabi Grand Prix",
+		"nickname": "Yas Marina",
+		"country": "United Arab Emirates",
+		"city": "Abu Dhabi",
+		"length": "5.281",
+		"first_race_year": 2009
+	}
+	]
+}
